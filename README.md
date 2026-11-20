@@ -6,7 +6,7 @@
 
 | Lab No. | Experiment | Repository / Files |
 |---------|------------|--------------------|
-| Lab 1 | Pending upload | Coming soon |
+| Lab 1 | Requirements Engineering & UML Use-Case Modelling | [View PDF](./Lab1/PES2UG24CS237_KRISHNA_PRAJOTH_G_LAB1.pdf) |
 | Lab 2 | Software Engineering Lab 2 | [View PDF](./Lab2/PES2UG24CS237_KRISHNA_PRAJOTH_G_LAB2_SE.pdf) |
 | Lab 3 | Software Engineering Lab 3 | [View Files](./Lab3/) |
 | Lab 4 | Target Aim Trainer | [View Files](./Lab-04/) |
