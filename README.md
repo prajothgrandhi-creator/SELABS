@@ -1,4 +1,4 @@
-﻿# SOFTWARE ENGINEERING LABORATORY
+# SOFTWARE ENGINEERING LABORATORY
 
 **Student:** KRSHNA PRAJOTH G
 
@@ -7,7 +7,7 @@
 | Lab No. | Experiment | Repository / Files |
 |---------|------------|--------------------|
 | Lab 1 | Pending upload | Coming soon |
-| Lab 2 | Pending upload | Coming soon |
+| Lab 2 | Software Engineering Lab 2 | [View PDF](./Lab2/PES2UG24CS237_KRISHNA_PRAJOTH_G_LAB2_SE.pdf) |
 | Lab 3 | Software Engineering Lab 3 | [View Files](./Lab3/) |
 | Lab 4 | Target Aim Trainer | [View Files](./Lab-04/) |
 | Lab 5 | Static Code Analysis - E-Commerce Cart System | [View Files](./Lab-05/) |
